@@ -1,7 +1,43 @@
+/*
+declaration block:
+
+selector{
+    property1: value;
+    property2: value;
+    property3: value;
+}
+*/
+
 body
 {
     background-color:  darkorange; 
     background-image:center;
     text-align: center;
 
+}
+
+nav
+{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#WheretheRideNeverEnds.jpg
+{
+    margin-right: 200px;
+
+}
+
+h1
+{
+text-align: center;
 }
